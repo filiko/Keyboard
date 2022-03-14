@@ -6,5 +6,5 @@ Note: Must have Microsoft Keyboard Creator to read and implement .klc files (the
 
 Also- use ePKL or SharpKeys to swap caps lock for backspace (:
 
+*** will post guide later like all those other nice intro pages do***
 
-*****need to fix missing "z" button*******
